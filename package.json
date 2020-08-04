@@ -1,6 +1,6 @@
 {
-  "name": "gluten-free-starter",
-  "version": "0.1.0",
+  "name": "reece-birthday-2020",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",

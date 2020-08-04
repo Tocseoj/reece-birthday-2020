@@ -1,7 +1,10 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="@/assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <HelloWorld msg="Happy Birthday Reece!" />
+    <p>I got you some gifts for MTG: Arena</p>
+    <CardFlip />
+    <BoosterPack />
+    <Freebies />
   </div>
 </template>
 
@@ -11,3 +14,8 @@ export default {
   path: '/',
 }
 </script>
+
+<style lang="stylus">
+.home
+  margin auto
+</style>

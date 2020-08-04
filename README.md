@@ -1,8 +1,7 @@
+# Reece's Birthday 2020
+
+Built using my one click 'deploy to netlify' vue cli template
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tocseoj/gluten-free-starter)
-
-# gluten-free-starter
-
-Get up and running right away with a free static site hosted to Netlify
 
 ## Project setup
 
